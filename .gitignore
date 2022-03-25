@@ -1,0 +1,5 @@
+imob/venv
+imob/imob/db.sqlite3
+sistemaCadastro/venv
+sistemaCadastro/cadastro/db.sqlite3
+*.pyc
